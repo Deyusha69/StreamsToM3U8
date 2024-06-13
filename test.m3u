@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Tagalog" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8" tvg-id="", GMA  Network
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8" tvg-id=", GMA  Network
 https://raw.githubusercontent.com/juneannex/stream/main/gma.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/NBA_Logo.svg" tvg-id=", NBA
+http://45.89.149.42:8080/memfs/a9e86c3e-d7e7-486a-bda8-13f73441f038.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_%28Philippines%29_logo.svg" tvg-id=", TV5 HD
+http://45.89.149.42:8080/074bdca4-bb58-4492-bc44-f71c61790038.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", One Sports Plus HD
+http://45.89.149.42:8080/memfs/ea478073-874c-46a8-8afd-7fb2913ccadd.m3u8
