@@ -1,13 +1,52 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8" tvg-id=", GMA  Network
-https://raw.githubusercontent.com/juneannex/stream/main/gma.m3u8
+https://xigncode.enics.cloud/hls/kinopyakoitosarestreamnixigncodebaklaako/index.m3u8
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/NBA_Logo.svg" tvg-id=", NBA
 http://45.89.149.42:8080/memfs/a9e86c3e-d7e7-486a-bda8-13f73441f038.m3u8
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_%28Philippines%29_logo.svg" tvg-id=", TV5 HD
-http://45.89.149.42:8080/074bdca4-bb58-4492-bc44-f71c61790038.m3u8
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_16.m3u8
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", One Sports Plus HD
-http://45.89.149.42:8080/memfs/ea478073-874c-46a8-8afd-7fb2913ccadd.m3u8
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_6.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", GTV
+https://xigncode.enics.cloud/hls/xigncodephgtv/index.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", ANC HD
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", CINEMA ONE
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", MYX
+https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", CARTOONITO
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=4.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", MOONBUG (KIDS)
+https://moonbug-rokuus.amagi.tv/playlist404-p.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", ZOOMOO (KIDS)
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", CARTOON NETWORK
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network-avc1_3000000=4.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", ANIMAL PLANET
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", ARIRANG
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
