@@ -50,3 +50,15 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", ARIRANG
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://i.ibb.co/VHMCPjp/star-television-broadcasting-station-new-logo-orig-removebg-preview-5.png", star television broadcasting station
+http://45.89.149.42:8080/memfs/2ee4f342-e8a0-477d-bef1-1172628ffde6.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://i.ibb.co/tbVJdMb/oie-k2t-Nnf-X6p0-Kv.jpg", stbs global
+http://45.89.149.42:8080/memfs/24edb246-ff61-4692-9235-01bbea3dd419.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://i.ibb.co/7jPG9d8/421974055-7425184840922119-2393535146278253515-n.jpg", dreamstar tv
+http://45.89.149.42:8080/memfs/d46f93d7-f955-4122-8a31-ebe2a00fe31f.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://i.ibb.co/5Rnx2F4/267151123-400123965132043-7385225466236355661-n.png", dream tv philippines
+http://45.89.149.42:8080/memfs/db8656dd-f3de-4b1b-96a2-328fa0fba58b.m3u8
