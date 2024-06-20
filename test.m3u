@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8" tvg-id=", GMA  Network
-https://xigncode.enics.cloud/hls/kinopyakoitosarestreamnixigncodebaklaako/index.m3u8
+https://xigncode.enics.cloud/hls/kinaenkotamodkokasikinuhakoitokayxigncode/index.m3u8
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/NBA_Logo.svg" tvg-id=", NBA
 http://45.89.149.42:8080/memfs/a9e86c3e-d7e7-486a-bda8-13f73441f038.m3u8
@@ -13,7 +13,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_16.m3u8
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_6.m3u8
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg", GTV
-https://xigncode.enics.cloud/hls/xigncodephgtv/index.m3u8
+https://xigncode.enics.cloud/hls/kuhangkuhasamayariampotasixigncodemayarinito/index.m3u8
 
 #EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ANClogo2014.svg", ANC HD
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
